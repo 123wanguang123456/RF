@@ -1,0 +1,9 @@
+streamlit==1.30.0
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.0
+scikit-learn==1.6.1	
+lime==0.2.0.1
+shap==0.45.1
+scikit-survival== 0.24.1
